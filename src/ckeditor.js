@@ -30,6 +30,7 @@ import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar';
 // new add
 import Highlight from '@ckeditor/ckeditor5-highlight/src/highlight';
 import Alignment from '@ckeditor/ckeditor5-alignment/src/alignment';
+import Font from '@ckeditor/ckeditor5-font/src/font';
 
 export default class ClassicEditor extends ClassicEditorBase {}
 
@@ -57,7 +58,8 @@ ClassicEditor.builtinPlugins = [
 	Table,
 	TableToolbar,
 	Highlight,
-	Alignment
+	Alignment,
+	Font
 ];
 
 // Editor configuration.
