@@ -90,7 +90,8 @@ ClassicEditor.defaultConfig = {
 			'imageStyle:alignRight',
 			'|',
 			'imageTextAlternative'
-		]
+		],
+		styles: ['full', 'side', 'alignLeft', 'alignCenter', 'alignRight']
 	},
 	table: {
 		contentToolbar: [
