@@ -87,7 +87,7 @@ ClassicEditor.defaultConfig = {
 			'imageStyle:side',
 			'imageStyle:alignLeft',
 			'imageStyle:alignCenter',
-			'imageStyle:alignRight'
+			'imageStyle:alignRight',
 			'|',
 			'imageTextAlternative'
 		]
